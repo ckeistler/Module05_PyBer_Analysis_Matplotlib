@@ -13,7 +13,7 @@ The back story to Module 5's Challenge was the following, "V. Isualize has given
   - Deliverable 3: A written report for the PyBer analysis (README.md)
 
 ## Process
-          - Deliverable 1
+          - Deliverable 1 - 5 different DataFrames were built, and then a summary DataFrame was constructed from them.  From there, the summary DataFrame was formatted to                   achieve the desired view.
 ![deliverable1_code](https://user-images.githubusercontent.com/88443672/133951388-f4e98237-8ece-4316-b50e-257d895b7528.png)
 ![avg_fare_code](https://user-images.githubusercontent.com/88443672/133951394-9ad0afcd-6bd3-42e5-b10d-bf75093c255e.png)
 ![pyber_summary_code](https://user-images.githubusercontent.com/88443672/133951396-2866976f-27f3-4ca1-8d7a-d01a3211bf68.png)
