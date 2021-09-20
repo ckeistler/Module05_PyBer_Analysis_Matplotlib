@@ -12,7 +12,7 @@ The back story to Module 5's Challenge was the following, "V. Isualize has given
   - Deliverable 2: A multiple-line chart of total fares for each city type
 
 ## Process
-          - Deliverable 1: 5 different DataFrames were built, and then a summary DataFrame was constructed from them.  From there, the summary DataFrame was formatted to                   achieve the desired view.  Note, there are numerous ways to retrieve the average fare by city type and the average fare by driver/city type.  3 different methods are             outlined in the below images.  While the for loops did generate the proper calculations, errors were triggered when incorporating them into the summary grid.  Thus,             I opted to merge DataFrames and create a seperate DataFrame with the average fare data included.
+        * Deliverable 1: 5 different DataFrames were built, and then a summary DataFrame was constructed from them.  From there, the summary DataFrame was formatted to                   achieve the desired view.  Note, there are numerous ways to retrieve the average fare by city type and the average fare by driver/city type.  3 different methods are             outlined in the below images.  While the for loops did generate the proper calculations, errors were triggered when incorporating them into the summary grid.  Thus,             I opted to merge DataFrames and create a seperate DataFrame with the average fare data included.
 
 ![deliverable1_code](https://user-images.githubusercontent.com/88443672/133951388-f4e98237-8ece-4316-b50e-257d895b7528.png)
 ![avg_fare_code](https://user-images.githubusercontent.com/88443672/133951394-9ad0afcd-6bd3-42e5-b10d-bf75093c255e.png)
@@ -25,6 +25,7 @@ The back story to Module 5's Challenge was the following, "V. Isualize has given
 
 ## Results
 ![pyber_summary_pic](https://user-images.githubusercontent.com/88443672/133951848-c635dcf2-19c0-4d5b-ac68-7b4875328180.png)
+          
           - Graphs on Total Rides, Total Drivers, and Total Fares are below
           - While Rural cities accounted for the lowest totals for rides, drivers, and total fares, the average fare per ride and average fare per driver where both the highest             of the city type subset.
 
@@ -35,9 +36,11 @@ As the the total ride data would suggest, total drivers are allocated in a simil
           - 80.9% of total drivers are in an Urban setting
           - 16.5% of drivers were listed in Suburban Cities
           - 2.6% of drivers were listed in Rural Cities
+          
 ![Fig7](https://user-images.githubusercontent.com/88443672/133951021-a58a69a9-784a-4430-9a8e-385dcdf113fb.png)
 
 With the breakdown in drivers and rides are listed above, it is no surprise that Total Fare by City Type shows Urban at the top and Rural at the bottom.
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/88443672/133951026-ddada471-e518-41f0-90c0-3f6e437f6eb2.png)
 
 
