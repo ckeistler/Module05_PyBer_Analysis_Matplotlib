@@ -39,7 +39,7 @@ As the the total ride data would suggest, total drivers are allocated in a simil
           
 ![Fig7](https://user-images.githubusercontent.com/88443672/133951021-a58a69a9-784a-4430-9a8e-385dcdf113fb.png)
 
-With the breakdown in drivers and rides are listed above, it is no surprise that Total Fare by City Type shows Urban at the top and Rural at the bottom.
+With the breakdown in drivers and rides that are listed above, it is no surprise that Total Fare by City Type shows Urban at the top and Rural at the bottom.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/88443672/133951026-ddada471-e518-41f0-90c0-3f6e437f6eb2.png)
 
