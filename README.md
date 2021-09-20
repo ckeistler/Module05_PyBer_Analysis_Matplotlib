@@ -12,11 +12,19 @@ The back story to Module 5's Challenge was the following, "V. Isualize has given
   - Deliverable 2: A multiple-line chart of total fares for each city type
   - Deliverable 3: A written report for the PyBer analysis (README.md)
 
+### Process
+
 ## Results
-
-
+The ride sharing data showed that the majority of rides were in an urban setting (68.4%), while suburban cities accounted for 26.3% of the total ride count.  Rural cities only accounted for 5.3% of the total data.
 ![Fig6](https://user-images.githubusercontent.com/88443672/133951019-75311c65-6a69-483f-aeb5-58002fb610eb.png)
+
+As the the total ride data would suggest, total drivers are allocated in a similar fashion.  
+          - 80.9% of total drivers are in an Urban setting
+          - 16.5% of drivers were listed in Suburban Cities
+          - 2.6% of drivers were listed in Rural Cities
 ![Fig7](https://user-images.githubusercontent.com/88443672/133951021-a58a69a9-784a-4430-9a8e-385dcdf113fb.png)
+
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/88443672/133951026-ddada471-e518-41f0-90c0-3f6e437f6eb2.png)
 
 
