@@ -20,6 +20,8 @@ The back story to Module 5's Challenge was the following, "V. Isualize has given
 
           - Deliverable 2:
           
+![deliverable2_code](https://user-images.githubusercontent.com/88443672/133951694-b71dc7a0-f662-4162-9144-10b38c81c216.png)
+          
 
 ## Results
 The ride sharing data showed that the majority of rides were in an urban setting (68.4%), while suburban cities accounted for 26.3% of the total ride count.  Rural cities only accounted for 5.3% of the total data.
