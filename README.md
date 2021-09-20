@@ -12,7 +12,14 @@ The back story to Module 5's Challenge was the following, "V. Isualize has given
   - Deliverable 2: A multiple-line chart of total fares for each city type
   - Deliverable 3: A written report for the PyBer analysis (README.md)
 
-### Process
+## Process
+          - Deliverable 1
+![deliverable1_code](https://user-images.githubusercontent.com/88443672/133951388-f4e98237-8ece-4316-b50e-257d895b7528.png)
+![avg_fare_code](https://user-images.githubusercontent.com/88443672/133951394-9ad0afcd-6bd3-42e5-b10d-bf75093c255e.png)
+![pyber_summary_code](https://user-images.githubusercontent.com/88443672/133951396-2866976f-27f3-4ca1-8d7a-d01a3211bf68.png)
+
+
+          
 
 ## Results
 The ride sharing data showed that the majority of rides were in an urban setting (68.4%), while suburban cities accounted for 26.3% of the total ride count.  Rural cities only accounted for 5.3% of the total data.
