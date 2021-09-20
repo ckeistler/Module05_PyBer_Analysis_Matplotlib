@@ -10,15 +10,15 @@ Module 5's focus was on introducing Matplotlib and Numpy alongside continued use
 The back story to Module 5's Challenge was the following, "V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer."
   - Deliverable 1: A ride-sharing summary DataFrame by city type
   - Deliverable 2: A multiple-line chart of total fares for each city type
-  - Deliverable 3: A written report for the PyBer analysis (README.md)
 
 ## Process
-          - Deliverable 1 - 5 different DataFrames were built, and then a summary DataFrame was constructed from them.  From there, the summary DataFrame was formatted to                   achieve the desired view.
+          - Deliverable 1: 5 different DataFrames were built, and then a summary DataFrame was constructed from them.  From there, the summary DataFrame was formatted to                   achieve the desired view.  Note, there are numerous ways to retrieve the average fare by city type and the average fare by driver/city type.  3 different methods are             outlined in the below images.  While the for loops did generate the proper calculations, errors were triggered when incorporating them into the summary grid.  Thus,             I opted to merge DataFrames and create a seperate DataFrame with the average fare data included.
+
 ![deliverable1_code](https://user-images.githubusercontent.com/88443672/133951388-f4e98237-8ece-4316-b50e-257d895b7528.png)
 ![avg_fare_code](https://user-images.githubusercontent.com/88443672/133951394-9ad0afcd-6bd3-42e5-b10d-bf75093c255e.png)
 ![pyber_summary_code](https://user-images.githubusercontent.com/88443672/133951396-2866976f-27f3-4ca1-8d7a-d01a3211bf68.png)
 
-
+          - Deliverable 2:
           
 
 ## Results
