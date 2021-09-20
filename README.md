@@ -1,7 +1,7 @@
 # PyBer_Analysis
 Module 5's focus was on introducing Matplotlib and Numpy alongside continued use and implementation alongside Pandas.  We were provided ride-sharing data in the form of two CSV files, city_data, which included data on city, driver count per city, and type of city (Urban, Suburban, Rural).  The second file, ride_data, included per ride information by city with date, fare, and ride_id fields.  Once merged, we constructed DataFrames using the groupby().count() and grouby().sum() functions, and we plotted line, bar, scatter, and box plots.
           
-                    ![Fig1](https://user-images.githubusercontent.com/88443672/133950946-b7de4f9e-4f32-4bd9-9cb5-69733b3b18d7.png)
+![Fig1](https://user-images.githubusercontent.com/88443672/133950993-9e9bbb90-8a34-4208-ae09-29f196117501.png)
 
 ![Fig2](https://user-images.githubusercontent.com/88443672/133950848-72876feb-2a21-4d4d-a329-a30f3ca8e771.png)
 
