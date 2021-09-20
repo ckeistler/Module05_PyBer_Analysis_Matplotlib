@@ -24,6 +24,10 @@ The back story to Module 5's Challenge was the following, "V. Isualize has given
           
 
 ## Results
+![pyber_summary_pic](https://user-images.githubusercontent.com/88443672/133951848-c635dcf2-19c0-4d5b-ac68-7b4875328180.png)
+          - Graphs on Total Rides, Total Drivers, and Total Fares are below
+          - While Rural cities accounted for the lowest totals for rides, drivers, and total fares, the average fare per ride and average fare per driver where both the highest             of the city type subset.
+
 The ride sharing data showed that the majority of rides were in an urban setting (68.4%), while suburban cities accounted for 26.3% of the total ride count.  Rural cities only accounted for 5.3% of the total data.
 ![Fig6](https://user-images.githubusercontent.com/88443672/133951019-75311c65-6a69-483f-aeb5-58002fb610eb.png)
 
@@ -33,9 +37,9 @@ As the the total ride data would suggest, total drivers are allocated in a simil
           - 2.6% of drivers were listed in Rural Cities
 ![Fig7](https://user-images.githubusercontent.com/88443672/133951021-a58a69a9-784a-4430-9a8e-385dcdf113fb.png)
 
-
+With the breakdown in drivers and rides are listed above, it is no surprise that Total Fare by City Type shows Urban at the top and Rural at the bottom.
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/88443672/133951026-ddada471-e518-41f0-90c0-3f6e437f6eb2.png)
 
 
-
 ## Summary
+More drivers and more volume doesn't necessarily mean higher returns.  Average fares in the Urban setting were much lower than rural settings, and stiff competition led to a very low average fare per driver.  The average fare per driver came in under the average fare per ride, suggesting that each driver's drive count was less than 1.  One would assume that trip mileage is lower in Urban settings, but traffice congestion and delays are much higher.  In Rural settings, the higher returns per fare (34.62 per ride) are somewhat two pronged, as they are necessary to attract drivers in the rural setting, and limited competition allows for higher rates.  Trips are likely much longer distances than those in an Urban setting, but with minimal traffic congestion and delays, trips are likely far more efficient.  Backhauls, however, would be far more unlikely in rural settings.  Even so, the average fare per driver was 160% of the average fare per ride, suggesting that drivers has more than 1 ride.  Subburban cities proved to be a happy medium between Rural and Urban cities.  The average fare per ride in Suburban settings was 89.5% (30.97/ride) of the Rural high value of 34.62/ride.  Average fare per driver for Suburban cities averaged 39.50/driver, suggesting that drivers on average had more than one trip.  It would be hard to derive wher ethe most profitable city type lies, without doing a deeper dive into 
