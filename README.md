@@ -14,4 +14,11 @@ The back story to Module 5's Challenge was the following, "V. Isualize has given
 
 ## Results
 
+
+![Fig6](https://user-images.githubusercontent.com/88443672/133951019-75311c65-6a69-483f-aeb5-58002fb610eb.png)
+![Fig7](https://user-images.githubusercontent.com/88443672/133951021-a58a69a9-784a-4430-9a8e-385dcdf113fb.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/88443672/133951026-ddada471-e518-41f0-90c0-3f6e437f6eb2.png)
+
+
+
 ## Summary
